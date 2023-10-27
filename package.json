@@ -1,0 +1,22 @@
+{
+  "name": "electron-practice",
+  "version": "0.0.1",
+  "description": "Practice.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmfadeley/electron-practice.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "James Fadeley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmfadeley/electron-practice/issues"
+  },
+  "homepage": "https://github.com/jmfadeley/electron-practice#readme"
+}
