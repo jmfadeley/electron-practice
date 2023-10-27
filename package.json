@@ -4,6 +4,7 @@
   "description": "Practice.",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,9 +15,12 @@
     "electron"
   ],
   "author": "James Fadeley",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jmfadeley/electron-practice/issues"
   },
-  "homepage": "https://github.com/jmfadeley/electron-practice#readme"
+  "homepage": "https://github.com/jmfadeley/electron-practice#readme",
+  "devDependencies": {
+    "electron": "^27.0.2"
+  }
 }
