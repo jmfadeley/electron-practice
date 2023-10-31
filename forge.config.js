@@ -1,4 +1,17 @@
 module.exports = {
+  publishers: [
+    {
+      name: 'Electron Practice',
+      config: {
+        repository: {
+          owner: 'jmfadeley',
+          name: 'electron-practice'
+        },
+        prerelease: false,
+        draft: true
+      }
+    }
+  ],
   packagerConfig: {
     asar: true,
   },
